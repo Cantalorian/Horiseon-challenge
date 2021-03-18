@@ -14,4 +14,4 @@
 
 ## Consolidated side "benefits" content
 
-![Getting Started](Horiseon-challenge/img.png)
+![Getting Started](/Screenshot.png)
