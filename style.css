@@ -8,7 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
-.header {
+header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -67,7 +67,7 @@ p {
   margin-left: 25px;
 }
 
-.content {
+section {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
@@ -76,7 +76,7 @@ p {
 }
 
 /* Consolidated font-family, background-color, and color */
-.benefits {
+aside {
   margin-right: 20px;
   padding: 20px;
   clear: both;
@@ -88,15 +88,7 @@ p {
   color: #ffffff;
 }
 
-.benefit-lead {
-  margin-bottom: 32px;
-}
-
-.benefit-brand {
-  margin-bottom: 32px;
-}
-
-.benefit-cost {
+aside div {
   margin-bottom: 32px;
 }
 
@@ -112,20 +104,8 @@ p {
   text-align: center;
 }
 
-.search-engine-optimization {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  background-color: #0072bb;
-}
-
-.online-reputation-management {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  background-color: #0072bb;
-}
-
+.search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
