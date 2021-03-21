@@ -14,4 +14,6 @@
 
 ## Consolidated side "benefits" content. Eliminated "benefits-lead class"
 
+## https://cantalorian.github.io/Horiseon-challenge/
+
 ![Getting Started](/Screenshot.png)
