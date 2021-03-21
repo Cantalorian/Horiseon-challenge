@@ -34,7 +34,7 @@ header div {
   list-style-type: none;
 }
 
-.header div ul li {
+header div ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -114,11 +114,11 @@ aside h3 {
 }
 
 /* Consolidated images max-height setting here */
-.content img {
+section img {
   max-height: 200px;
 }
 
-.content h2 {
+section h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
