@@ -1,19 +1,22 @@
 ## Horiseon-challenge
 
-## Corrected broken link within the "search-engine-optimization" class
+# Description:
+## A site designed to provide customers with enhancements to their online presence. Including social media marketing, online reputation   management, and search engine optimization services.
 
-## Changed title to reflect the company's name
+* Corrected broken link within the "search-engine-optimization" class
 
-## Added font-family, background-color, and color to the benefits class to reduce duplicate code
+* Changed title to reflect the company's name
 
-## Used benefits img selector to again, reduce duplicate code
+* Added font-family, background-color, and color to the benefits class to reduce duplicate code
 
-## Set max-height for "content images" to reduce class selectors
+* Used benefits img selector to again, reduce duplicate code
 
-## Included semantic HTML (Section, header, aside, footer)
+* Set max-height for "content images" to reduce class selectors
 
-## Consolidated side "benefits" content. Eliminated "benefits-lead class"
+* Included semantic HTML (Section, header, aside, footer)
 
-## https://cantalorian.github.io/Horiseon-challenge/
+* Consolidated side "benefits" content. Eliminated "benefits-lead class"
+
+* https://cantalorian.github.io/Horiseon-challenge/
 
 ![Getting Started](/Screenshot.png)
